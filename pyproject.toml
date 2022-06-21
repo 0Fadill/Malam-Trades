@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "python-template"
+name = "MalamTrader"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "a silly little tool to automate my trades while im taking a 9 hour nap during night time on a funny vtuber based stock market simulator game"
+authors = ["who knows"]
 
 [tool.poetry.dependencies]
 python = ">=3.8.0,<3.9"
